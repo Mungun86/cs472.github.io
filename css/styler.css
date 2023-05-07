@@ -1,0 +1,24 @@
+#cl{
+    font-size: 2vw;
+    color:blue;
+   } 
+   #myfavmovie{
+    font-size: 2vw;
+    color:blue;
+   } 
+   #mymoods{
+    font-size: 2vw;
+    color:blue;
+   } 
+   #neighbor{
+    font-size: 2vw;
+    color:blue;
+   }
+#movie{font-style: italic;
+    color:darkorchid
+}
+body {
+    font-family: sans-serif;
+    background-color:darkgray;
+    }
+    
